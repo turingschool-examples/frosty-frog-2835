@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.describe "Doctor show" do
+RSpec.describe "Doctor Show" do
   before do
     @hospital = Hospital.create!(name: "UC Health")
 
